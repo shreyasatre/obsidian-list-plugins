@@ -1,9 +1,9 @@
 {
 	"id": "obsidian-list-plugins",
-	"name": "List Plugins",
+	"name": "_A List Plugins",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "This plugin lists all the plugins in the user's vault and stores them in a designated note in Obsidian.",
+	"description": "This plugin lists all the plugins in the user's vault and lists them in a designated note.",
 	"author": "Shreyas Atre",
 	"authorUrl": "https://github.com/shreyasatre",
 	"isDesktopOnly": false
